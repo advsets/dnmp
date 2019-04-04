@@ -1,5 +1,1 @@
-.idea
-.DS_Store
-.env
-www/*
-!www/localhost/
+.gitignore

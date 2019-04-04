@@ -1,0 +1,1 @@
+2019/04/04 09:34:17 [error] 6#6: *7 directory index of "/var/www/html/localhost/" is forbidden, client: 172.26.0.1, server: localhost, request: "GET / HTTP/2.0", host: "localhost"
